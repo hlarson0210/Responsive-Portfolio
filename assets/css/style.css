@@ -243,3 +243,45 @@ footer {
     border-top: 5px solid #4aaaa5;
 }
 
+@media (max-width: 980px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+    body {
+        width: 100%;
+    }
+    
+    h1 {
+        margin: 0;
+        text-align: center;
+        width: 90%;
+        padding: 10 0 10 0;
+        float: left;
+    }
+
+    .buttons {
+        background-color: #ffffff;
+        float: left;
+        text-align: center;
+        width: 100%;
+        margin: 0;
+        padding: 0 0 10px 0px;
+    }
+
+    .content-width {
+       width: 85%;
+       margin: 2%;
+    }
+    
+    img {
+        width: 100%;
+        height: 25%;
+        margin: 2%
+    }
+
+}
