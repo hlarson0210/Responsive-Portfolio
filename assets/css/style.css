@@ -197,13 +197,13 @@ button {
     background-color: #4aaaa5;
     color: white;
     top: 105px;
-    padding: 10px 49px 10px 49px;
+    padding: 10px 36px 10px 36px;
 }
 #RPG {
     background-color: #4aaaa5;
     color: white;
     top: 105px;
-    padding: 10px 44px 10px 44px;
+    padding: 10px 26px 10px 27px;
 }
 
 #Trivia {
@@ -217,14 +217,14 @@ button {
     background-color: #4aaaa5;
     color: white;
     top: 105px;
-    padding: 10px 16px 10px 15px;
+    padding: 10px 54px 10px 53px;
 }
 
 #Rock{
     background-color: #4aaaa5;
     color: white;
     top: 105px;
-    padding: 10px 16px 10px 17px;
+    padding: 10px 30px 10px 29px;
 }
 
 .content-width::after{
