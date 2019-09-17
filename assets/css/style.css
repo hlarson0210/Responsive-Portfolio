@@ -227,6 +227,13 @@ button {
     padding: 10px 30px 10px 29px;
 }
 
+#Liri-bot{
+    background-color: #4aaaa5;
+    color: white;
+    top: 105px;
+    padding: 10px 30px 10px 29px;
+}
+
 .content-width::after{
     clear: both;
     content: "";
